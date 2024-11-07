@@ -1,6 +1,7 @@
 #  Mean and variance of a discrete  distribution
 
-
+Name:Surjith.D
+Reg.no:2122223043006
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
